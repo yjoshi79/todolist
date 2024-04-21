@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+width: 100%;
+background-color: cyan;
+text-align: center;
+}
+
+.he{
+    font-size: 7vw;
+}
+#inp{
+    font-size: 2vw;
+}
+#btnl{
+    font-size: 2vw;
+}
+#clrl{
+    font-size: 2vw;
+}
+#todo{
+    font-size: 2vw;
+}
